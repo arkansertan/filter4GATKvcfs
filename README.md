@@ -3,7 +3,7 @@
 
 What is  filter4GATKvcf ?
 
-filter4GATKvcf is R-Shiny based an exome variant analysis toolbox. Current software (ie; Excel, OpenOffice, etc.) remains insufficient to analyse large-scale exome sequencing data. Therefore, filter4GATKvcf provides users with various filtering options;
+filter4GATKvcf is R-Shiny based an exome variant analysis toolbox. Current softwares (ie; Excel, OpenOffice, etc.) remain insufficient to analyse large-scale exome sequencing data. Therefore, filter4GATKvcf provides users with various filtering options;
 
 1) Genotype
 2) Gene Symbols
