@@ -6,7 +6,7 @@ filter4GATKvcf is R-Shiny based an exome variant analysis toolbox. Current softw
 
 1) Quality parameters
 2) GC ratio
-3) Gene names
+3) Gene name
 4) GATK based POLYPHEN and SIFT scores 
 
 Contributing
