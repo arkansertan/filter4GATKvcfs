@@ -23,4 +23,4 @@ If you realize a bug, please file a detailed GitHub issue or contact us, and we 
 
 Citation
 
-This application toolbox was developed by Mustafa Kenan Kinaci (mkkinaci@gmail.com) and Sertan Arkan(sertanarkan@gmail.com).
+This application toolbox was developed by Mustafa Kenan Kinaci (mkkinaci@gmail.com) and Sertan Arkan (sertanarkan@gmail.com).
