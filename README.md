@@ -5,10 +5,15 @@ What is  filter4GATKvcf ?
 
 filter4GATKvcf is R-Shiny based an exome variant analysis toolbox. Current software (ie; Excel, OpenOffice, etc.) remains insufficient to analyse large-scale exome sequencing data. Therefore, filter4GATKvcf provides users with various filtering options;
 
-1) Quality parameters
-2) GC ratio
-3) Gene name
-4) GATK based POLYPHEN and SIFT scores 
+1) Genotype
+2) Gene Symbols
+3) Impact
+4) Genotyping Quality (GQ)
+5) Reading Depth (DP)
+6) Allel Frequency (AF)
+7) Quality
+8) GC content
+9) Mapping Quality (MAP QUAL)
 
 Contributing
 
