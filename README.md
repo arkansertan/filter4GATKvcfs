@@ -1,4 +1,5 @@
 # filter4GATKvcfs
+<img width="1660" height="422" alt="Screenshot 2026-02-26 at 12 25 36" src="https://github.com/user-attachments/assets/132b6a47-c791-4e54-9973-2fd4e273e2b0" />
 
 
 What is  filter4GATKvcf ?
